@@ -1,31 +1,31 @@
 {
 	"Person": [
 		{
-			"Id": 1,
+			"id": 1,
 			"Name": "Sagar",
 			"Credit": 288,
 			"IsActive": true
 		},
 		{
-			"Id": 2,
+			"id": 2,
 			"Name": "Niraj",
 			"Credit": 322,
 			"IsActive": false
 		},
 		{
-			"Id": 3,
+			"id": 3,
 			"Name": "Dhiraj",
 			"Credit": 534,
 			"IsActive": false
 		},
 		{
-			"Id": 4,
+			"id": 4,
 			"Name": "Neetu",
 			"Credit": 23,
 			"IsActive": false
 		},
 		{
-			"Id": 5,
+			"id": 5,
 			"Name": "Jeetu",
 			"Credit": 2355,
 			"IsActive": false
